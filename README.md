@@ -14,7 +14,7 @@ REST, singkatan bahasa Inggris dari _Representational State Transfer_, adalah su
 3. Tuliskan link berikut pada browser anda http://localhost/Praktikum4WebFramework/ hingga muncul tampilan seperti:
 
 ![enter image description here](https://lh3.googleusercontent.com/rS3FD0RfXGNXyVdaoUcACuPYIyVsM5V4XUjBOkdy-JFT8G0X6jgYcJu8E5n3uBWO1HbpKUvYde3EbVtlBzSagFYz1JG3WaKm6vQon8ZXIiHYRR2r-cuWYorHiN-L7FRNkC4qDd2I8rg3IWsVyPhch2h4mWR1VEAfGG5D8SWc59WgER821K4_Le88ZR6N1Si77NxIDEv9JeT9l5DGk1ew3jO52Vmd7F8L7BToaxedXO8wmz4cJl6kEF59a1PbxPmro0c9qZYFkE8-au019SXz86sIDsFfXdOeiG7BfBmwJeBXmes3Jwy5jCuiE1L8Oo55sq-WETcYhD6lFXGO2HBOnMfZwfxxYO3iG-xkC-UCJFlCcPFIh0xXBwsrq_UtyucgodfGkd1zDUAoNiVD3c60ckpZZeNhgWOIjvWkGyCuBEUV8anFTEClnKLLP_Bdg0rT-Tcn_8OvAFpMw93XD12flVgQtvZZ6Euv9wZqTnFZPfkDezcKDzBGteiMXbch24mxNAmYb9PMKh-u9oYmCxYvh5-FrBuGMD8hAnZIosmaCgEAwYwUzI7-5JTrHDAoHnCZUgeORu69QwWDA6cQrVZbJ02Y1tzQQ4uSXQY4ZZzXnkpCugQQu_-RDSsOvycLNaF1kWX4r2ZkxGS1t55kQjO1ZDA8ajj58rTSgwikSYis33PKyNs=w1920-h349-no)
-4. Buat database baru bernama **kontak**, dan import file `kontak.sql` ke dalam database tersebut
+4. Buat database baru bernama **kontak**, dan import file `kontak.sql` ke dalam database tersebut <br>
 5. Pastikan kode pada file `application/config/database.php` telah sama seperti baris kode berikut :
 ``` php
 defined('BASEPATH') OR exit('No direct script access allowed');
