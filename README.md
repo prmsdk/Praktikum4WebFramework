@@ -44,7 +44,7 @@ $db['default'] = array(
 );
 ```
 
-## Implementations
+## Implementasi
 
 1. Gunakan bantuan Postman untuk melakukan Get, Post, Put dan Delete, Install Postman dengan mengunduhnya [disini](https://www.postman.com/downloads/)
 2. Buka Postman, tambahkan tab baru dengan menekan tombol + 
