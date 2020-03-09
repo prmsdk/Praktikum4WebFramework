@@ -11,7 +11,8 @@ REST, singkatan bahasa Inggris dari _Representational State Transfer_, adalah su
 ## Preparations (Persiapan)
 1. Jalankan Webserver anda, dalam kasus ini yaitu XAMPP
 2. Download atau Fork repository ini ke dalam htdocs anda, beri nama folder project dengan nama **Praktikum4WebFramework**
-3. Tuliskan link berikut pada browser anda http://localhost/Praktikum4WebFramework/
+3. Tuliskan link berikut pada browser anda http://localhost/Praktikum4WebFramework/ dan menampilkan seperti :
+![gambar_tampilan_welcome](https://lh3.googleusercontent.com/sHOXft-959Sbv42HCulAAgdQ3blqYHSok8Ky7CQtKRd_giTpUqyiyXstvmX5h7zm3hMGjD3Jjp0-gNDJx_ht-SLR-81uSfChcFOQTkRu93UetULSLhl3882nL_t9IFydGJL_fK6i6pkjB13vtTALHPNvDpVhZhVn-4AfjPP1i7xkcAG3KWmrE5VMu7J3IzVzehIKnJdvIxgovRNstxDP5urQi0sCGCwjCmSKWrIfdDHplPicPPXXB8dioa0T7hqUr7cq6ILH5Vo5rmk_vxprU0UhKedJ2RCOkrI_lQ86781M9VJIXkb2JadOaJGh5DzrLSmGFUxHyVA2-ciDpILbZ-i8yEQ49oaba775dU8w7ZFEMdp5zMVPxIGJcZjXu2bvMqpGqASHAJ6yZdiaHfAxit5XV6d2tKHLMxAQKd5TzEry9N6yCe34uvNnHSojY4HpjqGzSmrCW0K14FhQfsWsPrd3YRJRnaZeFzT-_rGAryHsGu-MOcFAdQzBS4Mcjr1uzxE6Jt-Xp7AIlayVWMWXwRxOTPK3WrpaKdCNPMoqfm8NwoUeiGWQQqJPlHIfE5ZIU0l6E4gxcCV46j_M7jS1eHW2qkNoiA2dfpxJ8rEsig1ojzSo_X0YM5kShmpd9fNI1i81ZFCzhxC-Tm4T49W2sr537LicNd60-BOKUilR9MDClQY=w1920-h349-no)
 
 
 4. Buat database baru bernama **kontak**, dan import file `kontak.sql` ke dalam database tersebut <br>
