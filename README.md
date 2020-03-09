@@ -8,7 +8,7 @@ REST, singkatan bahasa Inggris dari _Representational State Transfer_, adalah su
 - [Codeigniter](https://codeigniter.com/en/download) versi 3.1.11
 - [Visual Studio Code](https://code.visualstudio.com/download) ( an option for your text editor )
 
-## Prepare (Persiapan)
+## Preparations (Persiapan)
 1. Jalankan Webserver anda, dalam kasus ini yaitu XAMPP
 2. Download atau Fork repository ini ke dalam htdocs anda, beri nama folder project dengan nama **Praktikum4WebFramework**
 3. Tuliskan link berikut pada browser anda http://localhost/Praktikum4WebFramework/
